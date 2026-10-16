@@ -1,0 +1,5 @@
+{
+  "path": "/dynamic_content",
+  "expectedRowCount": 3,
+  "maxRefreshAttempts": 5
+}

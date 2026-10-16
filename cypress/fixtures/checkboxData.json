@@ -1,0 +1,7 @@
+{
+  "path": "/checkboxes",
+  "checkboxes": [
+    { "index": 0, "name": "checkbox 1", "initialChecked": false },
+    { "index": 1, "name": "checkbox 2", "initialChecked": true }
+  ]
+}

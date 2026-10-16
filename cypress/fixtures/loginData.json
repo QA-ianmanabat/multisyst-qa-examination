@@ -1,0 +1,28 @@
+{
+  "paths": {
+    "login": "/login",
+    "secure": "/secure"
+  },
+  "validUser": {
+    "username": "tomsmith",
+    "password": "SuperSecretPassword!"
+  },
+  "invalidUsername": {
+    "username": "invaliduser",
+    "password": "SuperSecretPassword!"
+  },
+  "invalidPassword": {
+    "username": "tomsmith",
+    "password": "WrongPassword"
+  },
+  "emptyCredentials": {
+    "username": "",
+    "password": ""
+  },
+  "messages": {
+    "loginSuccess": "You logged into a secure area!",
+    "logoutSuccess": "You logged out of the secure area!",
+    "invalidUsername": "Your username is invalid!",
+    "invalidPassword": "Your password is invalid!"
+  }
+}
